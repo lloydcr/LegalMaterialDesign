@@ -1,3 +1,3 @@
 # LegalMaterialDesign Repository
 
-Web viewable version: http://legalmarkup.github.io/LegalMaterialDesign 
+Web viewable version: http://lloydcr.github.io/LegalMaterialDesign 
